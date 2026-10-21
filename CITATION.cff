@@ -2,10 +2,10 @@ cff-version: 1.2.0
 message: "If you use these notebooks, please cite them and the companion book."
 type: software
 title: "Monte Carlo for Polymer Reaction Engineering: Teaching Notebooks"
-abstract: "Beginner-friendly Colab notebooks on Monte Carlo simulation for polymer reaction engineering: chain growth, copolymers, branching, step growth, gelation and Gillespie kinetics."
+abstract: "Beginner-friendly Colab notebooks on steady state and dynamic Monte Carlo simulation for polymer reaction engineering, with case studies reproduced from the companion book."
 authors:
-  - family-names: "LASTNAME"
-    given-names: "FIRSTNAME"
+  - family-names: "Al-Khayyat"
+    given-names: "Mohammed"
     # orcid: "https://orcid.org/0000-0000-0000-0000"
 version: "1.0.0"
 # date-released: 2026-11-01            # add the release date (YYYY-MM-DD)
@@ -23,10 +23,14 @@ references:
   - type: book
     title: "Monte Carlo Methods in Polymer Reaction Engineering: From Mechanisms to Molecular Architecture"
     authors:
-      - family-names: "LASTNAME"
-        given-names: "FIRSTNAME"
+      - family-names: "Soares"
+        given-names: "João B. P."
+      - family-names: "Al-Khayyat"
+        given-names: "Mohammed"
+      - family-names: "Brandão"
+        given-names: "Amanda L. T."
     publisher:
       name: "PUBLISHER"
-    year: 2026                           # check
+    year: 2026
     # isbn: "978-..."
     # doi: "10.xxxx/xxxxx"
