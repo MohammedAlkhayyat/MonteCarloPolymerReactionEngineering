@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use these notebooks, please cite them and the companion book."
+type: software
+title: "Monte Carlo for Polymer Reaction Engineering: Teaching Notebooks"
+abstract: "Beginner-friendly Colab notebooks on Monte Carlo simulation for polymer reaction engineering: chain growth, copolymers, branching, step growth, gelation and Gillespie kinetics."
+authors:
+  - family-names: "LASTNAME"
+    given-names: "FIRSTNAME"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+version: "1.0.0"
+# date-released: 2026-11-01            # add the release date (YYYY-MM-DD)
+# doi: "10.5281/zenodo.XXXXXXX"         # add after Zenodo creates it
+repository-code: "https://github.com/YOUR-USER/mc-polymer-reaction-engineering"
+license:
+  - MIT
+  - CC-BY-4.0
+keywords:
+  - Monte Carlo
+  - polymer reaction engineering
+  - Gillespie algorithm
+  - teaching
+references:
+  - type: book
+    title: "Monte Carlo Methods in Polymer Reaction Engineering: From Mechanisms to Molecular Architecture"
+    authors:
+      - family-names: "LASTNAME"
+        given-names: "FIRSTNAME"
+    publisher:
+      name: "PUBLISHER"
+    year: 2026                           # check
+    # isbn: "978-..."
+    # doi: "10.xxxx/xxxxx"
