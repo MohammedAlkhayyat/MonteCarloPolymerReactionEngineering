@@ -50,7 +50,7 @@ If you use these notebooks, please cite both the notebooks and the book. GitHub'
 
 ```bibtex
 @software{mc_pre_notebooks,
-  author    = {Al-Khayyat, Mohammed},
+  author    = {Soares, Jo{\~a}o B. P. and Al-Khayyat, Mohammed and Brand{\~a}o, Amanda L. T.},
   title     = {Monte Carlo for Polymer Reaction Engineering: Teaching Notebooks},
   version   = {1.0.0},
   year      = {2026},
