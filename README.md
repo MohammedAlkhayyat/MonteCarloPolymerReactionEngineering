@@ -16,6 +16,7 @@ Two families of models are covered, following the book:
 
 | # | Topic | Type | What you'll do | Run |
 |---|---|---|---|---|
+| 0 | **Python for this course** | basics | Variables, loops, lists, functions, NumPy and plots, all with polymer examples, plus how to read the book's pseudocode | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MohammedAlkhayyat/MonteCarloPolymerReactionEngineering/blob/main/00_Python_for_This_Course.ipynb) |
 | 1 | **Monte Carlo warm-up** | basics | Random numbers, waiting times, and a full Monte Carlo decision tree (reactor with recycle) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MohammedAlkhayyat/MonteCarloPolymerReactionEngineering/blob/main/01_Monte_Carlo_Warmup.ipynb) |
 | 2 | **Chain growth & MWD** | steady state | Build chains one by one; n-CLD, w-CLD and log-scale MWD; combination vs transfer | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MohammedAlkhayyat/MonteCarloPolymerReactionEngineering/blob/main/02_Chain_Growth_MWD.ipynb) |
 | 3 | **Copolymers & composition** | steady state | Bernoulli and terminal models, CCD, bivariate length × composition maps | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MohammedAlkhayyat/MonteCarloPolymerReactionEngineering/blob/main/03_Copolymers_Composition.ipynb) |
@@ -27,7 +28,7 @@ Two families of models are covered, following the book:
 | 9 | **Case Study 3.2: styrene/MMA** | steady state | Reproduces Figs. 3.9, 3.10, 3.14 and 3.16 with the book's parameters | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MohammedAlkhayyat/MonteCarloPolymerReactionEngineering/blob/main/09_Case_Study_3-2_Styrene_MMA_Copolymerization.ipynb) |
 | 10 | **Case study: control volume (Sec. 4.6)** | dynamic | Reproduces the event log and control-volume study (Tables 4.2–4.9, Figs. 4.10–4.11) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MohammedAlkhayyat/MonteCarloPolymerReactionEngineering/blob/main/10_Case_Study_Dynamic_MC_Control_Volume.ipynb) |
 
-Notebooks 1–7 teach the methods step by step; notebooks 8–10 reproduce case studies from the book with its parameters, explaining the code line by line.
+Notebook 0 is for readers new to Python. Notebooks 1–7 teach the methods step by step; notebooks 8–10 reproduce case studies from the book with its parameters, explaining the code line by line. The code is written for beginners: short cells, plain loops, and plotting code tucked into collapsed cells.
 
 ## How to run
 
@@ -40,7 +41,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-Notebooks 1–7 run in a few seconds each. Notebooks 8–10 use [Numba](https://numba.pydata.org/) to compile the simulation loops and take about 20–60 seconds.
+Notebooks 0–7 run in a few seconds each. Notebooks 8–10 use [Numba](https://numba.pydata.org/) to compile the simulation loops and take about 20–70 seconds.
 
 ## License
 
