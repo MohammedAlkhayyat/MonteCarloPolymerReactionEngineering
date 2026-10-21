@@ -1,3 +1,5 @@
+![Monte Carlo for Polymer Reaction Engineering: a simulated molecular weight distribution matching the Flory distribution](assets/banner.png)
+
 # Monte Carlo for Polymer Reaction Engineering
 
 Hands-on Colab notebooks that teach Monte Carlo simulation from scratch, then apply it to polymer reaction engineering. No prior Monte Carlo experience needed.
@@ -50,7 +52,7 @@ If you use these notebooks, please cite both the notebooks and the book. GitHub'
 
 ```bibtex
 @software{mc_pre_notebooks,
-  author    = {Soares, Jo{\~a}o B. P. and Al-Khayyat, Mohammed and Brand{\~a}o, Amanda L. T.},
+  author    = {Al-Khayyat, Mohammed},
   title     = {Monte Carlo for Polymer Reaction Engineering: Teaching Notebooks},
   version   = {1.0.0},
   year      = {2026},
