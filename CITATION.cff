@@ -29,8 +29,5 @@ references:
         given-names: "Mohammed"
       - family-names: "Brandão"
         given-names: "Amanda L. T."
-    publisher:
-      name: "PUBLISHER"
     year: 2026
-    # isbn: "978-..."
-    # doi: "10.xxxx/xxxxx"
+    notes: "Forthcoming"
