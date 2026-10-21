@@ -11,9 +11,7 @@ version: "1.0.0"
 # date-released: 2026-11-01            # add the release date (YYYY-MM-DD)
 # doi: "10.5281/zenodo.XXXXXXX"         # add after Zenodo creates it
 repository-code: "https://github.com/MohammedAlkhayyat/MonteCarloPolymerReactionEngineering"
-license:
-  - MIT
-  - CC-BY-4.0
+license: MIT
 keywords:
   - Monte Carlo
   - polymer reaction engineering
