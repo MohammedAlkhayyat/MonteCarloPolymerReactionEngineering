@@ -4,7 +4,7 @@
 
 Hands-on Colab notebooks that teach Monte Carlo simulation from scratch, then apply it to polymer reaction engineering. No prior Monte Carlo experience needed.
 
-Companion to the book **Monte Carlo Methods in Polymer Reaction Engineering: From Mechanisms to Molecular Architecture** (J. B. P. Soares, M. Al-Khayyat, A. L. T. Brandão, 2026). The notebooks focus on running and visualizing the algorithms; the theory is in the book.
+Companion to the book **Monte Carlo Methods in Polymer Reaction Engineering: From Mechanisms to Molecular Architecture** (J. B. P. Soares, M. Al-Khayyat, A. L. T. Brandão, 2026). The notebooks focus on running and visualizing the algorithms.
 
 Two families of models are covered, following the book:
 - **Steady state Monte Carlo** (Ch. 3): event probabilities are constant, so chains are built one after another.
@@ -25,7 +25,7 @@ Two families of models are covered, following the book:
 | 9 | **Case Study 3.2: styrene/MMA** | steady state | Reproduces Figs. 3.9, 3.10, 3.14 and 3.16 with the book's parameters | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MohammedAlkhayyat/MonteCarloPolymerReactionEngineering/blob/main/09_Case_Study_3-2_Styrene_MMA_Copolymerization.ipynb) |
 | 10 | **Case study: control volume (Sec. 4.6)** | dynamic | Reproduces the event log and control-volume study (Tables 4.2–4.9, Figs. 4.10–4.11) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MohammedAlkhayyat/MonteCarloPolymerReactionEngineering/blob/main/10_Case_Study_Dynamic_MC_Control_Volume.ipynb) |
 
-Notebooks 1–7 teach the methods step by step; notebooks 8–10 reproduce case studies from the book with its parameters, explaining the code line by line.
+Notebooks 1–7 teach the methods step by step; notebooks 8–10 reproduce case studies from the book with its parameters.
 
 ## How to run
 
