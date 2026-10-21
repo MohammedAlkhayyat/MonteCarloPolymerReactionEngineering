@@ -2,6 +2,8 @@
 
 # Monte Carlo for Polymer Reaction Engineering
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23548076.svg)](https://doi.org/10.5281/zenodo.23548076)
+
 Hands-on Colab notebooks that teach Monte Carlo simulation from scratch, then apply it to polymer reaction engineering. No prior Monte Carlo experience needed.
 
 Companion to the book **Monte Carlo Methods in Polymer Reaction Engineering: From Mechanisms to Molecular Architecture** (J. B. P. Soares, M. Al-Khayyat, A. L. T. Brandão, 2026). The notebooks focus on running and visualizing the algorithms; the theory is in the book.
@@ -54,11 +56,11 @@ If you use these notebooks, please cite both the notebooks and the book. GitHub'
 @software{mc_pre_notebooks,
   author    = {Al-Khayyat, Mohammed},
   title     = {Monte Carlo for Polymer Reaction Engineering: Teaching Notebooks},
-  version   = {1.0.0},
+  version   = {1.0.1},
   year      = {2026},
   publisher = {Zenodo},
-  doi       = {10.5281/zenodo.XXXXXXX},
-  url       = {https://doi.org/10.5281/zenodo.XXXXXXX}
+  doi       = {10.5281/zenodo.23548076},
+  url       = {https://doi.org/10.5281/zenodo.23548076}
 }
 ```
 
